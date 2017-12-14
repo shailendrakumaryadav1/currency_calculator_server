@@ -1,4 +1,4 @@
-# currency_calculator_server
+﻿# currency_calculator_server
 
 ### How to run the server
 
@@ -36,8 +36,9 @@ A list of Currency Object. Each currency object has –
 4. flagPath - path to the image of flag
 5. rate - equivalent conversion to USD rate
 
-```sh
+
 Example Response: 
+```sh
 [
     {
         "code": "CHF",
